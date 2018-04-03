@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="en">
+<TS version="2.0" language="sl">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About VERGE</source>
-        <translation>About VERGE</translation>
+        <translation>O VERGE</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -17,7 +17,7 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2014-2018 The Verge developers</source>
-        <translation>Copyright © 2014-2018 The Verge developers</translation>
+        <translation>Avtorske pravice © 2014-2018 Verge Razvijalci</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -28,11 +28,11 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
-This is experimental software.
+To je eksperimentalna programska oprema.
 
-Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
+Distribuirana v skladu z licenco za programsko opremo MIT / X11. Oglejte si spremno datoteko COPYING ali http://www.opensource.org/licenses/mit-license.php..
 
-This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</translation>
+Ta izdelek vključuje programsko opremo, ki jo je razvil OpenSSL projekt, za uporabo v OpenSSL Toolkitu (http://www.openssl.org/). Ter kriptografsko programsko opremo, ki jo je napisal Eric Young (eay@cryptsoft.com) in programsko opremo UPnP, ki ga je napisal Thomas Bernard.</translation>
     </message>
 </context>
 <context>
@@ -40,47 +40,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation>Address Book</translation>
+        <translation>Adresar</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Double-click to edit address or label</translation>
+        <translation>Dvokliknite, če želite urediti naslov ali oznako</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation>Create a new address</translation>
+        <translation>Ustvarite nov naslov</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copy the currently selected address to the system clipboard</translation>
+        <translation>Kopirajte trenutno izbran naslov v sistemsko odložišče</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation>&amp;New Address</translation>
+        <translation>&amp;Nov naslov</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>These are your VERGE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your VERGE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <translation>To so vaši VERGE naslovi za prejemanje plačil. Lahko generirate več naslovov in vsakemu plačniku posredujete drugačnega. Tako boste lahko sledili, od koga ste prejeli plačilo.</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Copy Address</translation>
+        <translation>&amp;Kopiraj naslov</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>Show &amp;QR Code</translation>
+        <translation>Pokaži &amp;QR kodo</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a VERGE address</source>
-        <translation>Sign a message to prove you own a VERGE address</translation>
+        <translation>Podpišite sporočilo, ki dokazuje, da ste lastnik VERGE naslova</translation>
     </message>
     <message>
         <location line="+3"/>
